@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ziad!
 
-<!--
-**ZiiaadAshraf/ZiiaadAshraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm an **Embedded Software Engineer** passionate about building real-time systems, intelligent hardware, and solving real-world problems with code and circuits.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+### 🔹 Microcontrollers & Boards
+- 🧠 **AVR**, **PIC**, **STM32**, **ESP8266**, **Raspberry Pi**
+
+### 🔹 Programming Languages
+- 💻 **C**, **C++**, **Python**, **Java**, **Bash**
+
+### 🔹 Software & IDEs
+- 🔧 **Arduino IDE**, **STM32CubeIDE**, **STM32CubeMX Programmer**, **NetBeans**, **VS Code**
+
+### 🔹 Operating Systems & Tools
+- 🐧 **Linux**, **Bash scripting**
+
+### 🔹 Simulation & Testing
+- 🔍 **Proteus**, **Tinkercad**, **Multisim**
+
+---
+
+## 🚀 Interests
+
+- Robotics & Automation 🤖  
+- IoT Systems 🌐  
+- Low-level Embedded C Programming  
+- Real-Time Systems  
+- Cross-platform Development  
+
+---
+
+## 📈 GitHub Stats
+
+![Ziad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZiiaadAshraf&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/ziiaadashraf)
+- 📧 Email: you@example.com *(replace with your real email if you'd like)*
+
+---
+
+*Thanks for visiting! I’m always open to collaboration, learning, and sharing knowledge in the embedded systems and open-source space.*
