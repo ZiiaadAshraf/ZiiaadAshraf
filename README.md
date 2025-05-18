@@ -42,7 +42,7 @@
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ziiaadashraf)
-- 📧 Email: you@example.com *(replace with your real email if you'd like)*
+- 📧 Email: zezoashraf444@gmail.com
 
 ---
 
